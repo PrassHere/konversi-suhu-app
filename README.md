@@ -1,6 +1,6 @@
 # 🌡️ Konversi Suhu App
 
-Aplikasi sederhana berbasis Python untuk mengonversi suhu dari Celcius ke Fahrenheit, Reamur, dan Kelvin.
+Aplikasi sederhana berbasis Python untuk mengonversi suhu.
 
 ---
 
